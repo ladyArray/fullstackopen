@@ -4,5 +4,4 @@ This course serves as an introduction to modern web application development with
 
 ## Course parts
 
-
-
+[Part 0 - Fundamentals of Web apps](https://github.com/ladyarray/fullstackopen/tree/main/part0)
